@@ -1,5 +1,10 @@
-Dashboard
-=========
+# Dashboard
+
+## ⚠️ Archive Notice
+
+In 2014, my school's technology club (MINET) wanted to build a universal platform that can be used by them and similar student clubs. We started the project but later abandoned it in favor of third-party tools. Everything in this repository is courtesy of [@RadhikaG](https://github.com/RadhikaG).
+
+## Project
 
 This project involves creating a Dashboard, specific to every club in the school, such as MINET, Impulse, the MUN Club and the Biology and Chemistry Clubs to-be. It will be used to manage meetings, create a set agenda, post working material and articles for further reading. It will also help the Members communicate with their Department Heads and vice-versa.
 
@@ -15,9 +20,3 @@ Get the hang of Python. This is easier said than done since it’s after all, a 
 Read up on Django. Best way to do that is skim through the Django Book http://www.djangobook.com/ for the feel of it. Don’t overdose yourself with it, just understand what the MVC (Model-View-Controller) pattern does. A basic frame of the App will be put up on GitHub (soon), so relax. Once it’s put up, look through the code and understand it. 
 
 Windows just won’t cut it for using Django, nor for MySQL. And yes, you guessed it, nor for Apache. Don’t even try downloading it on your computer, since it’s a major pain in the ass. We’ll be needing Linux for it, which is precisely the purpose of the existence of the DO VPS (thanks Akshat). More instructions for handling Django there will posted later.
-
-
-MySQL:
-
-
-
